@@ -1,0 +1,47 @@
+{
+   
+  "country": [
+    {
+      "id": 1,
+      "name": "澳洲",
+      "pic": "../../static/imgs/f_aus.png",
+      "active":true
+    },
+    {
+      "id": 2,
+      "name": "美国",
+      "pic": "../../static/imgs/f_usa.png",
+      "active":true
+    },
+    {
+      "id": 3,
+      "name": "英国",
+      "pic": "../../static/imgs/f_uk.png",
+      "active":false
+    },
+    {
+      "id": 4,
+      "name": "加拿大",
+      "pic": "../../static/imgs/f_can.png",
+      "active":false
+    },
+    {
+      "id": 5,
+      "name": "中国香港",
+      "pic": "../../static/imgs/f_hk.png",
+      "active":false
+    },
+    {
+      "id": 6,
+      "name": "新西兰",
+      "pic": "../../static/imgs/f_nzl.png",
+      "active":false
+    },
+    {
+      "id": 7,
+      "name": "爱尔兰",
+      "pic": "../../static/imgs/f_ael.png",
+      "active":false
+    }
+  ]
+}

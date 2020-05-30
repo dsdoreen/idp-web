@@ -1,0 +1,116 @@
+/*common begin*/
+.wrapper{
+    width: 1200px;
+    margin: 0 auto;
+  }
+  h1 {
+    font-size: 30px;
+    font-weight: bold;
+    color: #1b4bb3;
+    margin-bottom: 40px;
+  }
+  
+  .textLeft {
+    text-align: left !important;
+  }
+  .section {
+    width: 100%;
+    padding: 75px 0;
+  }
+  .section h1 {
+    font-size: 30px;
+    font-weight: bold;
+    padding-left: 45px;
+    box-sizing: border-box;
+    position: relative;
+  }
+  
+  .section h1.wh1 {
+    color: #fafafa !important;
+  }
+  h1 {
+    font-size: 30px;
+    font-weight: bold;
+    color: #1b4bb3;
+    margin-bottom: 40px;
+  }
+  
+  .textLeft {
+    text-align: left !important;
+  }
+  
+  .section {
+    width: 100%;
+    padding: 75px 0;
+  }
+  
+  .section-r {
+    width: 100%;
+    position: relative;
+  }
+  
+  .section-r::after {
+    content: '';
+    display: block;
+    background: url(../imgs/ic_connect_r.png) no-repeat;
+    background-size: initial;
+    width: 103px;
+    height: 121px;
+    position: absolute;
+    right: 0;
+    top: -125px;
+  }
+  
+  .section-r1::after {
+    content: '';
+    display: block;
+    background: url(../imgs/ic_connect_r1.png) no-repeat;
+    width: 103px;
+    height: 108px;
+    position: absolute;
+    right: 0;
+    top: -125px;
+  }
+  
+  .section-r1 {
+    width: 100%;
+    position: relative;
+  }
+  
+  .section-m,
+  .section-l {
+    width: 100%;
+    position: relative;
+  }
+  
+  .section-con {
+    width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .bg-color {
+    background: #f6f7f9;
+  }
+  .right {
+    float: right;
+  }
+  
+  .left {
+    float: left;
+  }
+  .swiper-pagination-bullet {
+    width: 8px;
+    height: 8px;
+    display: inline-block;
+    border-radius: 100%;
+    background: #fff;
+    opacity: 0.5;
+}
+.swiper-pagination-bullet-active{
+	width: 25px;
+    height: 8px;
+    opacity: 1 !important;
+    background-color: #fafafa !important;
+    border-radius: 20px;
+}
+  /*common begin*/

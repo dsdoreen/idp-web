@@ -1,0 +1,132 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noindex,follow">
+<title>404</title>
+<script type="text/javascript" src="../../../../ruxitagentjs_ICA2SVfqru_10189200420175514.js" data-dtconfig="rid=RID_1123663317|rpid=-1303304610|domain=idp.cn|reportUrl=/rb_bf79558wva|app=ea7c4b59f27d43eb|featureHash=ICA2SVfqru|rdnt=1|uxrgce=1|bp=2|cuc=3y8f5g8x|srms=1,1,,,|uxrgcm=100,25,300,3;100,25,300,3|dpvc=1|bismepl=2000|lastModification=1587869056939|dtVersion=10189200420175514|tp=500,50,0,1|uxdcw=1500|agentUri=/ruxitagentjs_ICA2SVfqru_10189200420175514.js"></script><style type="text/css">.si0si {
+	width: 500px;
+	height: 204px;
+	margin: 150px auto 0 auto;
+	background: url("http://www.idp.cn/templets/default2/img/idplogo.jpg") no-repeat left center;
+}
+
+.si0si_zi {
+	width: 250px;
+	height: 108px;
+	float: right;
+}
+
+h1 {
+	margin: 0;
+	padding: 0;
+	font-family: "Arial Black";
+}
+
+.si0si_zi span {
+	line-height: 20px;
+	font-size: 14px;
+}
+
+#miao {
+	font-size: 16px;
+	font-family: "Arial Black";
+}
+
+.ziti {
+	font-family: Arial;
+}
+</style>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?76c4a2a2c6befb50a2f52bfa1307c6d0";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+<!--百度统计 IDPChina  end-->
+
+
+<!--百度统计 IDPEducation  start-->
+<script>
+	var _hmt = _hmt || [];
+	(function() {
+		var hm = document.createElement("script");
+		hm.src = "//hm.baidu.com/hm.js?7a935b13737a51298a5a738429e41dfc";
+		var s = document.getElementsByTagName("script")[0];
+		s.parentNode.insertBefore(hm, s);
+	})();
+</script>
+<!--百度统计 IDPEducation  end-->
+
+<!--百度统计 JS-API start-->
+<script>
+	var _hmt = _hmt || [];
+</script>
+<!--百度统计 JS-API end-->
+
+<!--百度统计 指定API接口 start-->
+<script>
+	var _hmt = _hmt || [];
+	_hmt.push([ '_setAccount', '7a935b13737a51298a5a738429e41dfc' ]);/*指定IDP Education接收事件行为数据*/
+</script>
+<!--百度统计 指定API接口 end-->
+
+<!--统计代码 head end-->
+</head>
+
+<body>
+	<div class="si0si">
+		<div class="si0si_zi">
+			<h1>404 Error</h1>
+			<br />
+			<span>
+				您访问的页面不存在或已被删除
+				<br /><br />
+				请点击访问<a class="ziti" href="../../../../index.html">IDP中国官方首页</a>
+				<br /><br />
+				或者通过搜索来查找你要找的内容
+				<br /><br />
+				<form class="right w195 top3" target="_blank" action="http://zhannei.baidu.com/cse/search" name="formsearch">
+					<input type="hidden" name="s" value="3268817139078272586">
+					<input class="left s_k" name="q" type="text" value="请输入你要查找的内容" onfocus="if (value =='请输入你要查找的内容'){value =''}" onblur="if (value ==''){value='请输入你要查找的内容'}">
+					<input class="left s_button center fff png" name="" type="submit" value="搜索" style="cursor: pointer;">
+				</form>
+			</span>
+		</div>
+	</div>
+	<script type="text/javascript">
+		Load("/");//要跳转到的页面
+	</script>
+	<!--以下统计代码部署到/body前-->
+	<!--Adsage start-->
+	<noscript>
+		<img alt="adsage"
+			src="http://trc.adsage.com/trc/atac/conv.gif?id=12551" width="0px"
+			style="display: none !important;" />
+	</noscript>
+	<script type="text/javascript">
+		var pubsage_conv_id = 12551;
+		var pubsage_conv = pubsage_conv || [];
+		(function() {
+			try {
+				var d = document;
+				var at = d.createElement('script');
+				at.type = 'text/javascript';
+				at.async = true;
+				at.src = ('https:' == document.location.protocol ? 'https:'
+						: 'http:')
+						+ '//trc.adsage.com/trc/atac/conv_x.js?id='
+						+ pubsage_conv_id;
+				var s = d.getElementsByTagName('script')[0];
+				s.parentNode.insertBefore(at, s);
+			} catch (e) {
+			}
+		})();
+	</script>
+	<!--Adsage end-->
+	<!--统计代码 body end-->
+</body>
+</html>
